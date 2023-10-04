@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+
+<resources>
+    <color name="u_shape_color">#FFA500</color> <!-- Orange color for the U shape -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="green">#0E8F00</color>
+    <color name="green_500">#237426</color> <!-- White color for the background -->
+
+</resources>
